@@ -137,6 +137,7 @@ extra:
   SEO: assets/meta/SEO.png
   comments: false #disable comments globally
   generate_graph: true #generate the graph of the site
+  attachments: 'assets/img' #where the attachments files are 
   blog_list:
     pagination: true
     pagination_message: true
