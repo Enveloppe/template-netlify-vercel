@@ -9,6 +9,9 @@ title: Configuration
 - [Documentation](https://obsidian-publisher.netlify.app/)
 - [Github Discussion](https://github.com/ObsidianPublisher/obsidian-github-publisher/discussions)
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FJackiexiao%2Fpublisher-template-vercel&project-name=obsidian-github-publish&repository-name=obsidian-github-publish)
+
+
 ## Mkdocs configuration
 
 You need to configure the plugin and the `mkdocs` configuration for it to work properly.

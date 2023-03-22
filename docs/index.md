@@ -1,4 +1,5 @@
 ---
 share: true
 ---
-[TAGS]
+
+# home page

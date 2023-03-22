@@ -15,3 +15,4 @@ mkdocs-meta-descriptions-plugin==2.2.0
 mkdocs-glightbox==0.3.2
 mkdocs-minify-plugin==0.6.4
 mkdocs-exclude==1.0.2
+jieba==0.42.1
