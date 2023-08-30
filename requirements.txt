@@ -9,7 +9,7 @@ mkdocs-git-revision-date-localized-plugin==1.2.0
 mkdocs-encryptcontent-plugin==2.5.3
 mkdocs-callouts==1.9.0
 mkdocs-custom-tags-attributes==0.3.0
-mkdocs-static-i18n==1.0.0
+mkdocs-static-i18n==1.0.2
 mkdocs-meta-descriptions-plugin==2.3.0
 mkdocs-glightbox==0.3.4
 mkdocs-minify-plugin==0.7.1
